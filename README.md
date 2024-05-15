@@ -1,2 +1,4 @@
 # parray
-An isometric RPG based on the 2007 Hasbro Parcheesi Board Game Milton Bradley The Classic Game Of India. This game is played from a singular pawns point of view.
+: to ward off a weapon or blow. parried forcefully and knocked his opponent's sword out of his hand. 2. : to evade or turn aside something.
+
+Your decision making, preparation strategy, and luck will determine how your test of fate unfolds. In this virtual spin on the classic Milton Bradley Parcheesi, play as a singular pawn who is chosen to make the long journey home.
